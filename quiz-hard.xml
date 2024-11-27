@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="quiz.xsl"?>
+
+<quiz>
+    <question>
+        <text>What does service abstraction mean in SOA?</text>
+        <option1>Hiding internal implementation</option1>
+        <option2>Making services visible</option2>
+        <option3>Combining services into one</option3>
+        <option4>None of the above</option4>
+        <answer>Hiding internal implementation</answer>
+    </question>
+    <question>
+        <text>What is a contract in SOA?</text>
+        <option1>An agreement between services</option1>
+        <option2>A programming rule</option2>
+        <option3>A function definition</option3>
+        <option4>A user agreement</option4>
+        <answer>An agreement between services</answer>
+    </question>
+    <question>
+        <text>What is the role of SLA in SOA?</text>
+        <option1>Service Level Agreement</option1>
+        <option2>Software Licensing Agreement</option2>
+        <option3>Systematic Level Analysis</option3>
+        <option4>Structured License Agreement</option4>
+        <answer>Service Level Agreement</answer>
+    </question>
+    <question>
+        <text>What is the role of message queuing in SOA?</text>
+        <option1>Sending real-time data</option1>
+        <option2>Storing messages temporarily</option2>
+        <option3>Encrypting data</option3>
+        <option4>Deleting unused messages</option4>
+        <answer>Storing messages temporarily</answer>
+    </question>
+    <question>
+        <text>What is service granularity in SOA?</text>
+        <option1>Defining the scope of services</option1>
+        <option2>Linking services tightly</option2>
+        <option3>Writing detailed code</option3>
+        <option4>Creating large services</option4>
+        <answer>Defining the scope of services</answer>
+    </question>
+    <question>
+        <text>What is service governance in SOA?</text>
+        <option1>Managing services lifecycle</option1>
+        <option2>Writing new software</option2>
+        <option3>Monitoring databases</option3>
+        <option4>Debugging applications</option4>
+        <answer>Managing services lifecycle</answer>
+    </question>
+    <question>
+        <text>Which protocol supports SOA messaging?</text>
+        <option1>HTTP only</option1>
+        <option2>HTTP and HTTPS</option2>
+        <option3>SOAP and REST</option3>
+        <option4>SMTP</option4>
+        <answer>SOAP and REST</answer>
+    </question>
+    <question>
+        <text>What is choreography in SOA?</text>
+        <option1>Decentralized service interaction</option1>
+        <option2>Centralized service control</option2>
+        <option3>Managing databases</option3>
+        <option4>Writing orchestration scripts</option4>
+        <answer>Decentralized service interaction</answer>
+    </question>
+    <question>
+        <text>What is a key challenge in SOA?</text>
+        <option1>Interoperability</option1>
+        <option2>Service autonomy</option2>
+        <option3>Managing large service ecosystems</option3>
+        <option4>Tight coupling</option4>
+        <answer>Managing large service ecosystems</answer>
+    </question>
+    <question>
+        <text>What is an SOA registry?</text>
+        <option1>A database for services</option1>
+        <option2>A directory for service metadata</option2>
+        <option3>A log file</option3>
+        <option4>A debugging tool</option4>
+        <answer>A directory for service metadata</answer>
+    </question>
+</quiz>

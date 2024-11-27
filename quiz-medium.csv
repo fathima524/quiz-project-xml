@@ -1,0 +1,11 @@
+Question,Option 1,Option 2,Option 3,Option 4,Answer
+What does loose coupling mean in SOA?,Services are independent,Services are tightly linked,Services are part of one application,None of the above,Services are independent
+Which type of communication is typically used in SOA?,Synchronous,Asynchronous,Offline,Real-time only,Synchronous
+What is the role of a service bus in SOA?,Transport services,Provide database connections,Enable communication between services,Generate reports,Enable communication between services
+Which language is commonly used for SOA implementation?,C++,XML,JavaScript,Python,XML
+What is an endpoint in SOA?,Service address,A programming function,A database query,None of the above,Service address
+What is service orchestration in SOA?,Combining services,Running multiple databases,Coding a new service,None of the above,Combining services
+Which is not a principle of SOA?,Interoperability,Loose coupling,Tight integration,Service autonomy,Tight integration
+What is the role of policies in SOA?,Defining service rules,Restricting users,Building new services,Storing data,Defining service rules
+What is ESB in SOA?,Enterprise Service Bus,Enterprise Software Base,External Service Bus,Enterprise Support Bus,Enterprise Service Bus
+What is a composite application in SOA?,A single software,Multiple integrated services,Standalone systems,Monolithic applications,Multiple integrated services

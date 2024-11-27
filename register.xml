@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="register.xsl"?>
+<registration>
+    <!-- Welcome Message and Registration Prompt -->
+    <welcome>
+        <h1>Welcome Student</h1>
+        <h2>Kindly register first before starting the quiz</h2>
+    </welcome>
+
+    <!-- Difficulty Selection Instructions -->
+    <difficulty>
+        <p>Please choose one of the following difficulty levels:</p>
+        <button>Easy</button>
+        <button>Medium</button>
+        <button>Hard</button>
+    </difficulty>
+
+    <!-- Registration Form -->
+    <form>
+        <field>
+            <label>Name:</label>
+            <input type="text" placeholder="Enter your name" />
+        </field>
+        <field>
+            <label>Roll Number:</label>
+            <input type="text" placeholder="Enter your roll number" />
+        </field>
+        <field>
+            <label>College Email ID:</label>
+            <input type="email" placeholder="Enter your college email ID" />
+        </field>
+        <field>
+            <label>Semester:</label>
+            <input type="number" placeholder="Enter your semester" />
+        </field>
+        <field>
+            <label>Section:</label>
+            <input type="text" placeholder="Enter your section" />
+        </field>
+        <submit>
+            <button>Submit</button>
+        </submit>
+    </form>
+</registration>

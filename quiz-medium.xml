@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="quiz.xsl"?>
+
+<quiz>
+    <question>
+        <text>What does loose coupling mean in SOA?</text>
+        <option1>Services are independent</option1>
+        <option2>Services are tightly linked</option2>
+        <option3>Services are part of one application</option3>
+        <option4>None of the above</option4>
+        <answer>Services are independent</answer>
+    </question>
+    <question>
+        <text>Which type of communication is typically used in SOA?</text>
+        <option1>Synchronous</option1>
+        <option2>Asynchronous</option2>
+        <option3>Offline</option3>
+        <option4>Real-time only</option4>
+        <answer>Synchronous</answer>
+    </question>
+    <question>
+        <text>What is the role of a service bus in SOA?</text>
+        <option1>Transport services</option1>
+        <option2>Provide database connections</option2>
+        <option3>Enable communication between services</option3>
+        <option4>Generate reports</option4>
+        <answer>Enable communication between services</answer>
+    </question>
+    <question>
+        <text>Which language is commonly used for SOA implementation?</text>
+        <option1>C++</option1>
+        <option2>XML</option2>
+        <option3>JavaScript</option3>
+        <option4>Python</option4>
+        <answer>XML</answer>
+    </question>
+    <question>
+        <text>What is an endpoint in SOA?</text>
+        <option1>Service address</option1>
+        <option2>A programming function</option2>
+        <option3>A database query</option3>
+        <option4>None of the above</option4>
+        <answer>Service address</answer>
+    </question>
+    <question>
+        <text>What is service orchestration in SOA?</text>
+        <option1>Combining services</option1>
+        <option2>Running multiple databases</option2>
+        <option3>Coding a new service</option3>
+        <option4>None of the above</option4>
+        <answer>Combining services</answer>
+    </question>
+    <question>
+        <text>Which is not a principle of SOA?</text>
+        <option1>Interoperability</option1>
+        <option2>Loose coupling</option2>
+        <option3>Tight integration</option3>
+        <option4>Service autonomy</option4>
+        <answer>Tight integration</answer>
+    </question>
+    <question>
+        <text>What is the role of policies in SOA?</text>
+        <option1>Defining service rules</option1>
+        <option2>Restricting users</option2>
+        <option3>Building new services</option3>
+        <option4>Storing data</option4>
+        <answer>Defining service rules</answer>
+    </question>
+    <question>
+        <text>What is ESB in SOA?</text>
+        <option1>Enterprise Service Bus</option1>
+        <option2>Enterprise Software Base</option2>
+        <option3>External Service Bus</option3>
+        <option4>Enterprise Support Bus</option4>
+        <answer>Enterprise Service Bus</answer>
+    </question>
+    <question>
+        <text>What is a composite application in SOA?</text>
+        <option1>A single software</option1>
+        <option2>Multiple integrated services</option2>
+        <option3>Standalone systems</option3>
+        <option4>Monolithic applications</option4>
+        <answer>Multiple integrated services</answer>
+    </question>
+</quiz>

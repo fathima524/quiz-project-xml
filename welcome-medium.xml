@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="welcome-medium.xsl"?>
+<welcome>
+    <h1>Welcome to the Medium Quiz</h1>
+    <h2>This quiz is a bit challenging. Do your best!</h2>
+</welcome>

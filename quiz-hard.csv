@@ -1,0 +1,11 @@
+Question,Option 1,Option 2,Option 3,Option 4,Answer
+What does service abstraction mean in SOA?,Hiding internal implementation,Making services visible,Combining services into one,None of the above,Hiding internal implementation
+What is a contract in SOA?,An agreement between services,A programming rule,A function definition,A user agreement,An agreement between services
+What is the role of SLA in SOA?,Service Level Agreement,Software Licensing Agreement,Systematic Level Analysis,Structured License Agreement,Service Level Agreement
+What is the role of message queuing in SOA?,Sending real-time data,Storing messages temporarily,Encrypting data,Deleting unused messages,Storing messages temporarily
+What is service granularity in SOA?,Defining the scope of services,Linking services tightly,Writing detailed code,Creating large services,Defining the scope of services
+What is service governance in SOA?,Managing services lifecycle,Writing new software,Monitoring databases,Debugging applications,Managing services lifecycle
+Which protocol supports SOA messaging?,HTTP only,HTTP and HTTPS,SOAP and REST,SMTP,SOAP and REST
+What is choreography in SOA?,Decentralized service interaction,Centralized service control,Managing databases,Writing orchestration scripts,Decentralized service interaction
+What is a key challenge in SOA?,Interoperability,Service autonomy,Managing large service ecosystems,Tight coupling,Managing large service ecosystems
+What is an SOA registry?,A database for services,A directory for service metadata,A log file,A debugging tool,A directory for service metadata

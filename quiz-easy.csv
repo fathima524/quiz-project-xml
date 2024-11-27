@@ -1,0 +1,11 @@
+Question,Option 1,Option 2,Option 3,Option 4,Answer
+What does SOA stand for?,Service On Application,Service-Oriented Architecture,Simple Online Application,Software On Application,Service-Oriented Architecture
+SOA is mainly used for?,Large databases,Web Services,Email Communication,Graphics Design,Web Services
+What is a service in SOA?,A software module,A type of database,A programming language,None of the above,A software module
+Which protocol is commonly used in SOA?,HTTP,FTP,SMTP,SNMP,HTTP
+What is the role of SOAP in SOA?,Protocol for email,Messaging protocol,File sharing,Database management,Messaging protocol
+What is WSDL in SOA?,Web Services Description Language,Wireless System Design Language,Web System Document Language,Web Service Documentation,Web Services Description Language
+Which of these is a key benefit of SOA?,Increased dependency,Improved flexibility,Reduced scalability,Complex integration,Improved flexibility
+What is the main purpose of UDDI in SOA?,Data encryption,Service discovery,Creating databases,Writing software,Service discovery
+What is REST in SOA?,A protocol,A style of web services,A database,A type of software,A style of web services
+Which of the following supports SOA?,Monolithic applications,Microservices,Standalone systems,Legacy systems,Microservices

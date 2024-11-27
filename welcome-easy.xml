@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="welcome-easy.xsl"?>
+<welcome>
+    <h1>Welcome to the Easy Quiz</h1>
+    <h2>This quiz is designed for beginners. Good luck!</h2>
+</welcome>

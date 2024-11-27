@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type="text/xsl" href="quiz.xsl"?>
+
+<quiz>
+    <question>
+        <text>What does SOA stand for?</text>
+        <option1>Service On Application</option1>
+        <option2>Service-Oriented Architecture</option2>
+        <option3>Simple Online Application</option3>
+        <option4>Software On Application</option4>
+        <answer>Service-Oriented Architecture</answer>
+    </question>
+    <question>
+        <text>SOA is mainly used for?</text>
+        <option1>Large databases</option1>
+        <option2>Web Services</option2>
+        <option3>Email Communication</option3>
+        <option4>Graphics Design</option4>
+        <answer>Web Services</answer>
+    </question>
+    <question>
+        <text>What is a service in SOA?</text>
+        <option1>A software module</option1>
+        <option2>A type of database</option2>
+        <option3>A programming language</option3>
+        <option4>None of the above</option4>
+        <answer>A software module</answer>
+    </question>
+    <question>
+        <text>Which protocol is commonly used in SOA?</text>
+        <option1>HTTP</option1>
+        <option2>FTP</option2>
+        <option3>SMTP</option3>
+        <option4>SNMP</option4>
+        <answer>HTTP</answer>
+    </question>
+    <question>
+        <text>What is the role of SOAP in SOA?</text>
+        <option1>Protocol for email</option1>
+        <option2>Messaging protocol</option2>
+        <option3>File sharing</option3>
+        <option4>Database management</option4>
+        <answer>Messaging protocol</answer>
+    </question>
+    <question>
+        <text>What is WSDL in SOA?</text>
+        <option1>Web Services Description Language</option1>
+        <option2>Wireless System Design Language</option2>
+        <option3>Web System Document Language</option3>
+        <option4>Web Service Documentation</option4>
+        <answer>Web Services Description Language</answer>
+    </question>
+    <question>
+        <text>Which of these is a key benefit of SOA?</text>
+        <option1>Increased dependency</option1>
+        <option2>Improved flexibility</option2>
+        <option3>Reduced scalability</option3>
+        <option4>Complex integration</option4>
+        <answer>Improved flexibility</answer>
+    </question>
+    <question>
+        <text>What is the main purpose of UDDI in SOA?</text>
+        <option1>Data encryption</option1>
+        <option2>Service discovery</option2>
+        <option3>Creating databases</option3>
+        <option4>Writing software</option4>
+        <answer>Service discovery</answer>
+    </question>
+    <question>
+        <text>What is REST in SOA?</text>
+        <option1>A protocol</option1>
+        <option2>A style of web services</option2>
+        <option3>A database</option3>
+        <option4>A type of software</option4>
+        <answer>A style of web services</answer>
+    </question>
+    <question>
+        <text>Which of the following supports SOA?</text>
+        <option1>Monolithic applications</option1>
+        <option2>Microservices</option2>
+        <option3>Standalone systems</option3>
+        <option4>Legacy systems</option4>
+        <answer>Microservices</answer>
+    </question>
+</quiz>

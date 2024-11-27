@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="welcome-hard.xsl"?>
+<welcome>
+    <h1>Welcome to the Hard Quiz</h1>
+    <h2>This quiz is for advanced learners. Brace yourself!</h2>
+</welcome>
